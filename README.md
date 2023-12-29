@@ -2,16 +2,16 @@
 
 🚀 Currently pursuing B.Tech in Information Technology.
 
-💻 Skills:
-•C++
-•Java
-•HTML
-•CSS
-•JavaScript
-•Node.js
-•Express.js
-•PUG
-•MongoDB
+💻 Skills: <br>
+•C++ <br>
+•Java <br>
+•HTML <br>
+•CSS <br>
+•JavaScript <br>
+•Node.js <br>
+•Express.js <br>
+•PUG <br>
+•MongoDB <br>
 
 🌱 Currently diving into the world of ReactJS.
 
