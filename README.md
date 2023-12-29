@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Madhur
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Btech in Information Technology
-- 💞️ I’m looking to collaborate on different projects
+👋 Hey there, I'm Madhur Pande, a Web Developer based in Maharashtra, India.
 
-<!---
-iam-madhur/iam-madhur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Currently pursuing B.Tech in Information Technology.
+
+💻 Skills:
+•C++
+•Java
+•HTML
+•CSS
+•JavaScript
+•Node.js
+•Express.js
+•PUG
+•MongoDB
+
+🌱 Currently diving into the world of ReactJS.
+
+🎓 B.Tech in Information Technology.
+
+🚀 Open source contributor and coding enthusiast.
+
+🚧 Exciting projects in the making - stay tuned!
