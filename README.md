@@ -7,15 +7,14 @@
 •Java <br>
 •HTML <br>
 •CSS <br>
+•Tailwind CSS <br>
 •JavaScript <br>
+•React.js <br>
 •Node.js <br>
 •Express.js <br>
 •PUG <br>
 •MongoDB <br>
-
-🌱 Currently diving into the world of ReactJS.
-
-🎓 B.Tech in Information Technology.
+•PostgreSQL <br>
 
 🚀 Open source contributor and coding enthusiast.
 
